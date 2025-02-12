@@ -9,14 +9,14 @@ Currently interest in smart contracts and Dapp.
     Frameworks
         -React, Node.js, Tailwind, Flask
 
-I enojoy building back end applications mostly. But can also do the front end
+I enjoy building back end applications mostly. But can also do the front end
 
 
 ## Mission
 
-- To use nvim throughout the course to develop 'blazzingly fast' -- Primeagon
-- Understand the fundamentals of GIT
-- Plugins and formating for linting and debugging
+- To use nvim throughout the course to develop 'blazzingly fast' -- Primeagen
+Understand the fundamentals of GIT
+- Plugins and formatting for linting and debugging
 - Code that is easily read by AI for good interpretation
 
 ## Most important for me
