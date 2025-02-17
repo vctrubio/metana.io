@@ -30,12 +30,15 @@ contract AdminToken is ERC20, Ownable {
 // A token is essentially a smart contract deployed on a blockchain that keeps track of balances and allows transfers.
 // When people say “token”, they usually mean an ERC-20 contract deployed on Ethereum (or similar blockchains like Polygon, BSC, Arbitrum).
 
-
 //  What is ERC-20 Good For?
-//
+
 // ERC-20 is the most common token standard in Ethereum. It’s used for:
 // ✅ Cryptocurrencies & Stablecoins → USDT, DAI, USDC, etc.
 // ✅ Utility Tokens → Used inside dApps (e.g., AAVE, UNI, LINK).
 // ✅ Governance Tokens → Voting rights in DAOs (e.g., MKR, COMP).
 // ✅ Reward Systems → Loyalty points, staking rewards.
 // ✅ Fundraising (ICO/IDO) → New projects raise funds using ERC-20 tokens.
+//
+//
+// ABI - Application Binary Interface
+// defines the interface between your contact and the outside world

@@ -8,6 +8,10 @@
 ## Deliverables
 
 - ERC20 with God-Mode
+  mintTokensToAddress(address recipient)
+  changeBalanceAtAddress(address target)
+  authoritativeTransferFrom(address from, address to)
+
 - ERC20 with Sanctions
 - ERC20 with Token Sale
 - ERC20 with Token Sale and Partial Refunds
@@ -15,6 +19,9 @@
 ## ERC20 what is
 
 An ERC20 token is a standard for creating tokens on the Ethereum blockchain. It defines a set of rules that all Ethereum tokens must follow, ensuring compatibility with various services and wallets.
+
+- ~60% in gas fees, compared to 1/3 if sending ETH
+  -interacting with different smart contract varies
 
 ### ERC20 Without God-Mode
 
