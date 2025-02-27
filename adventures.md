@@ -16,4 +16,11 @@ Very excited, good content, definitely worth a look
 
 - Glimps of ERC20 tokens
 
-[^1]: Insights and interest in nvim. I can taste the power, first implementation of markdown using the syntax
+## WEEK 2 -- 24 FEB
+
+- longer then expected, but solid understanding into what a ERC20 Token is and its derivitives.
+
+* DIVE INTO erc720 token, NFT. {ownerAddress}{nftAddress}.json
+
+- ** Reflection (WEEKLY TAGS) **
+  [^1]: Insights and interest in nvim. I can taste the power, first implementation of markdown using the syntax
